@@ -1,6 +1,6 @@
 // juego.cpp
 // Definición de la clase Juego
-//hola
+//hola 
 
 #include "juego.h"
 
